@@ -1,0 +1,6 @@
+пример решения 		https://colab.research.google.com/drive/1SYOWlnvXdFsUCwV5RJM9C_fHMw-VHx1x?usp=sharing
+Дьяк 			https://dyakonov.org/2017/12/25/определение-вероятности-невозврата/
+сайт задачи		https://hackathon-mkb.ru/
+
+percentile
+log transform: np.log(1+x)
